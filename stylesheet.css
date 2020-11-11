@@ -1,0 +1,39 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: url(1.jpg);
+	background-size: cover;
+	background-position: center;
+	font-family: sans-serif;
+}
+h1{
+	margin:70;
+	padding: 0 0 100px;
+	text-align: center;
+	font-size: 52px;
+	color: #ffff00;
+}
+h2{
+	margin:200;
+	padding: 0 0 100px;
+	text-align: center;
+	font-size: 22px;
+	color: #fff;
+}
+input[type="submit"]
+{   
+    href: "sheet2.html";
+	border: none;
+	outline: none;
+	height: 40px;
+	background: #1c8adb;
+	color: #fff;
+	font-size:18px;
+	border-radius: 20px;
+}
+input[type="submit"]:hover
+{
+	cursor: pointer;
+	background: #39dc79;
+	color: #000;
+}
